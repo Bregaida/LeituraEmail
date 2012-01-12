@@ -1,0 +1,11 @@
+Manifest-Version: 1.1
+Main-Class: br.com.emaildados.main.PrincipalNfe
+Class-Path: lib-dep/activation.jar 
+ lib-dep/dsn.jar 
+ lib-dep/imap.jar 
+ lib-dep/mail.jar 
+ lib-dep/mailapi.jar 
+ lib-dep/pop3.jar 
+ lib-dep/smtp.jar 
+ lib-dep/log4j-1.2.15.jar 
+ 
